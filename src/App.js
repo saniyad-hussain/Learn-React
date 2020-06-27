@@ -23,6 +23,7 @@ class App extends React.Component {
     {
       id: 4,
       title: 'Go mosque',
+      complete: true,
       
     }
 
