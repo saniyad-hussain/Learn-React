@@ -17,7 +17,7 @@ class App extends React.Component {
     },
     {
       id: 3,
-      title: 'Go to Bed',
+      title: 'Go to Hell',
       complete: false,
     }
 
