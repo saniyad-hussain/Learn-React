@@ -19,6 +19,11 @@ class App extends React.Component {
       id: 3,
       title: 'Go to Bed',
       complete: false,
+    },
+    {
+      id: 4,
+      title: 'Go mosque',
+      
     }
 
   ]
